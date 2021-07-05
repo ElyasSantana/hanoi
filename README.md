@@ -1,2 +1,2 @@
 # hanoi
-Esse repositório foi feito para implementar o clássico problema da torre de Hanoi
+Esse repositório foi feito para implementar o clássico quebra-cabeça da torre de Hanoi
